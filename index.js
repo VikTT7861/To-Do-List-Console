@@ -1,3 +1,5 @@
+/*To-do List console program*/
+
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,
